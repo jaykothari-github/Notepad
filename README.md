@@ -11,5 +11,5 @@ I use different widgets like textarea, Menubar, Scrollbar, Filedialog. andmade s
 
 ## Screen Look:
 
-![alt text](https://github.com/jaykothari-github/Notepad/blob/main/Calculator_look.jpg?raw=true)
+![alt text](https://github.com/jaykothari-github/Notepad/blob/main/Notepad_look.jpg?raw=true)
 
